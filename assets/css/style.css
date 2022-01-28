@@ -1,0 +1,24 @@
+
+
+@font-face {
+    font-family: "Ŗoboto";
+    src: url("../fonts/Roboto-Regular.ttf") format("truetype");
+    font-weight: 500;
+    font-size: normal;
+}
+body {
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+.wrapper {
+min-height: 100vh;
+width: 100%;
+
+background-color: rgb(101, 207, 181);
+background-image: url(../img/tiger.jpg);
+background-size: 200px auto;
+background-repeat:no-repeat;
+background-position: 50% 50%;
+background-attachment: fixed;
+
+
+}
